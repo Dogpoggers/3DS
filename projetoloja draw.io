@@ -145,9 +145,6 @@
         <mxCell id="IixTlW_lo0cIp4SZYuLD-44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Diagrama ER - Projeto loja&lt;/h1&gt;&lt;div&gt;Desenvolvido por: Ebenézer Marcelo de Assis Martins Sousa&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="50" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="IixTlW_lo0cIp4SZYuLD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IixTlW_lo0cIp4SZYuLD-8" target="IixTlW_lo0cIp4SZYuLD-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
